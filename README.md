@@ -1,1 +1,2 @@
 # Employee-Churn-Prediction
+for any company employee attrition is a serious issue , in this case we had information about the employees(nof days associated with company,age,experience,salary) from this information we have to predict whether employee will churn or not , its binary classification problem , i used neural networks and machine learning to solve this problem also i attached some reports and insights that i got know during EDA part
